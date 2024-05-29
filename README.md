@@ -5,6 +5,7 @@ EasyBill includes a barcode scanner for clothes in malls, allowing users to quic
 the need to wait in long queues, making the shopping experience faster and more enjoyable.
 
 Features
+
 Barcode Scanner: Integrated barcode scanner for easy item scanning.
 
 Mobile Payment: Secure and efficient payment process using smartphones.
