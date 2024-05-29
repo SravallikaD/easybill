@@ -6,6 +6,9 @@ the need to wait in long queues, making the shopping experience faster and more 
 
 Features
 Barcode Scanner: Integrated barcode scanner for easy item scanning.
+
 Mobile Payment: Secure and efficient payment process using smartphones.
+
 Queue Reduction: Minimizes long queues, enhancing the shopping experience.
+
 User-Friendly Interface: Simple and intuitive design for easy navigation.
